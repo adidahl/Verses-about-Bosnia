@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artistName</key>
+		<string>Mak Dizdar</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Zapis o zemlji</string>
+		<key>albumArtwork</key>
+		<string>Mak Dizdar</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Enes Kišević</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Moja Bosna i tvoja Bosna</string>
+		<key>albumArtwork</key>
+		<string>Enes Kisevic</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Enver Čolaković</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Bosni</string>
+		<key>albumArtwork</key>
+		<string>Enver Colakovic</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Mehmed Mejlija Guranija</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Pjesma Sarajevu</string>
+		<key>albumArtwork</key>
+		<string>Mehmed Mejlija Guranija</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Enes Kišević</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Zaljulja se mostarska munara</string>
+		<key>albumArtwork</key>
+		<string>Enes Kisevic</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Abdulah Sidran</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Mora</string>
+		<key>albumArtwork</key>
+		<string>Abdulah Sidran</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>W. Shakespeare</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Hamlet, ulomak</string>
+		<key>albumArtwork</key>
+		<string>WS</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Enver Čolaković</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Đerzelezu Ale</string>
+		<key>albumArtwork</key>
+		<string>Enver Colakovic</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Musa Ćazim Ćatić</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Teubei-nesuh</string>
+		<key>albumArtwork</key>
+		<string>Musa Cazim</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Meša Selimović</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Derviš i smrt, ulomak 1</string>
+		<key>albumArtwork</key>
+		<string>MS</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Meša Selimović</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Derviš i smrt, ulomak 2</string>
+		<key>albumArtwork</key>
+		<string>MS</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Enes Kišević</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Molitva Salimova</string>
+		<key>albumArtwork</key>
+		<string>Enes Kisevic</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string></string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Ajeti iz Kur&apos;ana</string>
+		<key>albumArtwork</key>
+		<string>Quran</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Mak Dizdar</string>
+		<key>albumName</key>
+		<string>Stihovi o Bosni</string>
+		<key>songName</key>
+		<string>Modra rijeka</string>
+		<key>albumArtwork</key>
+		<string>Mak Dizdar</string>
+	</dict>
+</array>
+</plist>
